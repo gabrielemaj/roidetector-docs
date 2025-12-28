@@ -36,4 +36,8 @@ nav:
   - User Guide:
     - Example: user-guide/example.md
     - Work Instructions: user-guide/work-instructions.md
-  - Developer Guide: developer-guide.md
+  - Developer Guide:
+    - Overview: developer-guide/overview.md
+    - Installation: developer-guide/installation.md
+    - Architecture: developer-guide/architecture.md
+    - API Reference: developer-guide/api-reference.md
